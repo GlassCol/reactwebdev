@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+img{
+  width: 15%;
+  padding: 5px;
+}
+.badger_img{
+height: 5%;
+width: 5%;
+}
